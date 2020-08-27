@@ -26,7 +26,7 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
 public class BaseTest {
-	
+	//test purpose
 	protected StringWriter writer;
 	protected PrintStream captor;
 	
